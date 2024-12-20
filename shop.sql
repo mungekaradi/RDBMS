@@ -14,7 +14,7 @@ insert into product values
 (4,"Sugar",3,110),
 (5,"Oil",2,180);
 
-select * from product;		-- it will display the table with values.alter
+select * from product;		-- it will display the table with values.
 
 select * from product where name like "J%";		-- display the product name starts with j.		
 
